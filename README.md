@@ -17,3 +17,23 @@ This repository contains an analysis of food access challenges using CDC and FDA
 
 ## Descriptive Statistics
 ![alt text](images/image.png)
+![alt text](images-10/image.png)
+
+## Exploratory Data Analysis
+### Histogram analysis for conditions
+![alt text](images-1/image.png)
+![alt text](images-3/image.png)
+![alt text](images-4/image.png)
+![alt text](images-6/image.png)
+
+### Geoplots
+![alt text](images-2/image.png)
+![alt text](images-7/image.png)
+## Multivariate Analysis
+![alt text](images-5/image.png)
+
+## Pair plot
+![alt text](images-8/image.png)
+
+## Target areas after scoring
+![alt text](images-9/image.png)

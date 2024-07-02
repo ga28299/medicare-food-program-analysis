@@ -1,7 +1,7 @@
-# Food Access Analysis for Medicare Advantage Plan
+# Food Access Analysis for Medicare Plan
 
 ## Project Overview
-This repository contains an analysis of food access challenges using CDC and FDA public datasets. The project explores potential strategies for a Medicare Advantage plan to address food insecurity among its members.
+This repository contains an analysis of food access challenges using CDC and FDA public datasets. The project explores potential strategies for a Medicare plan to address food insecurity among its members.
 
 
 ## Objectives

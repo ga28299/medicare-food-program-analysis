@@ -5,6 +5,7 @@ This repository contains an analysis of food access challenges using CDC and FDA
 
 
 ## Objectives
+- Work with messy data from public data sources
 - Identify optimal locations for deploying a food access program
 - Estimate the number of people who could be included and can benefit
 - Determine which subgroups might benefit most from the program
@@ -13,3 +14,6 @@ This repository contains an analysis of food access challenges using CDC and FDA
 ## Data Sources
 - [CDC 500 Cities Project](https://chronicdata.cdc.gov/500-Cities/500-Cities-Census-Tract-level-Data-GIS-Friendly-Fo/k86t-wghb)
 - [FDA Food Environment Atlas](https://www.ers.usda.gov/data-products/food-environment-atlas/data-access-and-documentation-downloads/)
+
+## Descriptive Statistics
+![alt text](images/image.png)

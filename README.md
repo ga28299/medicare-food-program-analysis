@@ -35,4 +35,5 @@ This repository contains an analysis of food access challenges using CDC and FDA
 ![alt text](images/image-8.png)
 ## Target areas after scoring
 ![alt text](images/image-9.png)
+![alt text](images/image-11.png)
 
